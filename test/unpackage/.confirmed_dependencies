@@ -1,0 +1,29 @@
+{
+  "index.html": {
+    "refer": [
+      "plus/njs.html",
+      "plus/zip.html",
+      "plus/webview.html",
+      "plus/device.html",
+      "about.html",
+      "plus/downloader.html",
+      "plus/gallery.html",
+      "plus/xhr.html",
+      "plus/video.html",
+      "plus/accelerometer.html"
+    ],
+    "resources": []
+  },
+  "plus/device.html": {
+    "refer": [
+      "doc/device.html"
+    ],
+    "resources": []
+  },
+  "plus/njs.html": {
+    "refer": [
+      "plus/njs_efficient.html"
+    ],
+    "resources": []
+  }
+}
